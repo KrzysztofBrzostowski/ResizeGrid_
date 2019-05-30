@@ -1,0 +1,13 @@
+C:\Users\Ela\AppData\Local\Temporary Projects\ResizeGrid\bin\Debug\ResizeGrid.exe
+C:\Users\Ela\AppData\Local\Temporary Projects\ResizeGrid\bin\Debug\ResizeGrid.pdb
+C:\Users\Ela\AppData\Local\Temporary Projects\ResizeGrid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\AppData\Local\Temporary Projects\ResizeGrid\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\AppData\Local\Temporary Projects\ResizeGrid\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\AppData\Local\Temporary Projects\ResizeGrid\obj\x86\Debug\App.g.cs
+C:\Users\Ela\AppData\Local\Temporary Projects\ResizeGrid\obj\x86\Debug\ResizeGrid_MarkupCompile.cache
+C:\Users\Ela\AppData\Local\Temporary Projects\ResizeGrid\obj\x86\Debug\ResizeGrid.g.resources
+C:\Users\Ela\AppData\Local\Temporary Projects\ResizeGrid\obj\x86\Debug\ResizeGrid.Properties.Resources.resources
+C:\Users\Ela\AppData\Local\Temporary Projects\ResizeGrid\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\AppData\Local\Temporary Projects\ResizeGrid\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\AppData\Local\Temporary Projects\ResizeGrid\obj\x86\Debug\ResizeGrid.exe
+C:\Users\Ela\AppData\Local\Temporary Projects\ResizeGrid\obj\x86\Debug\ResizeGrid.pdb

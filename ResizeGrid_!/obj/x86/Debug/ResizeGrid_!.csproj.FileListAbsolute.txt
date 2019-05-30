@@ -1,0 +1,15 @@
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\bin\Debug\ResizeGrid_!.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\bin\Debug\ResizeGrid_!.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\obj\x86\Debug\App.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\obj\x86\Debug\ResizeGrid_!_MarkupCompile.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\obj\x86\Debug\ResizeGrid_!.g.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\obj\x86\Debug\ResizeGrid.Properties.Resources.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\obj\x86\Debug\ResizeGrid_!.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\obj\x86\Debug\ResizeGrid_!.pdb
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\obj\x86\Debug\ResizeGrid_!.exe
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\ResizeGrid_!\ResizeGrid_!\obj\x86\Debug\ResizeGrid_!.pdb
